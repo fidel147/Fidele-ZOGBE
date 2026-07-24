@@ -12,8 +12,3 @@
 * **Languages:** C, Python
 * **OS & Environment:** Linux, Termux
 * **Interests & Goals:** AI, Data Science, Cybersecurity, Mandarin (HSK 4)
-
----
-
-### 📊 GitHub Stats
-![Fidèle's GitHub stats](https://github-readme-stats.vercel.app/api?username=fidel147&show_icons=true&theme=radical)
